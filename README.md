@@ -1,3 +1,5 @@
+![](./img/header.jpg)
+
 ## About Me
 
 :trophy: Winner of 4 All-Russian School Olympiads: 3 in mathematics and 1 in informatics/programming.
