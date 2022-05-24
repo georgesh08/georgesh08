@@ -15,9 +15,14 @@
 
 * Mastering my skills in .NET (Roslyn, CLR, GC e.t.c.)
 
-* Developing mobile music [service](https://github.com/Kre4/MusicApp) with friends
+* Developing mobile music service with friends
 
 * Reading _Jeffrey Richter "CLR via C#"_
+
+## My Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## Contact Me
 
@@ -56,6 +61,3 @@
 *English* - advanced (C1)
 
 *German* - elementary (A2)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgesh08&count_private=true&show_icons=true&hide=issues&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
