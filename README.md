@@ -1,7 +1,8 @@
-#
+## About Me
+_2nd year student of ITMO University in Saint-Petersburg, Faculty of Information Technology and Programming.
+Winner of 4 All-Russian School Olympiads: 3 in mathematics and 1 informatics/programming. Love to study and gain knowledge._
 
 ## Contact Me
-___
 
 [![Telegram](https://img.shields.io/badge/Telegram-1C93CE?style=for-the-badge&logo=telegram)](https://t.me/george_shulyak)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/george-shulyak-63334023b/)
@@ -9,7 +10,7 @@ ___
 
 
 ## Hard Skills
-____ 
+
 ### `Programming languages`
 
 ![C#](https://img.shields.io/badge/-C%23-B869DD?style=for-the-badge&logo=csharp)
@@ -38,6 +39,5 @@ ____
 
 *German* - elementary (A2)
 
-___
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgesh08&count_private=true&show_icons=true&hide=issues&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
