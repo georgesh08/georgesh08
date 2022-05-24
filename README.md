@@ -1,6 +1,7 @@
 ## About Me
-_2nd year student of ITMO University in Saint-Petersburg, Faculty of Information Technology and Programming.
-Winner of 4 All-Russian School Olympiads: 3 in mathematics and 1 informatics/programming. Love to study and gain knowledge._
+
+:trophy: Winner of 4 All-Russian School Olympiads: 3 in mathematics and 1 in informatics/programming.
+
 
 ## Contact Me
 
