@@ -2,10 +2,25 @@
 
 :trophy: Winner of 4 All-Russian School Olympiads: 3 in mathematics and 1 in informatics/programming.
 
+:computer: Junior C# .NET Developer
+
+:camera_flash: Love traveling and taking photos
+
+
+## Currently Working On
+
+* My .NET [labs](https://itmois.notion.site/1-y24-54e3ddf85994453ea2cf37d000c0296e) in ITMO University
+
+* Mastering my skills in .NET (Roslyn, CLR, GC e.t.c.)
+
+* Developing mobile music [service](https://github.com/Kre4/MusicApp) with friends
+
+* Reading _Jeffrey Richter "CLR via C#"_
 
 ## Contact Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-1C93CE?style=for-the-badge&logo=telegram)](https://t.me/george_shulyak)
+[![Instagram](https://img.shields.io/badge/Instagram-EDB151?style=for-the-badge&logo=instagram)](https://instagram.com/georgeshulyak?igshid=YmMyMTA2M2Y=)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/george-shulyak-63334023b/)
 [![Vk](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk)](https://vk.com/gshulyak)
 
