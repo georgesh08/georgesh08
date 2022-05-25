@@ -22,6 +22,13 @@
 ## My Stats
 
 <!--START_SECTION:waka-->
+
+```text
+From: 17 May 2022 - To: 24 May 2022
+
+C#   51 mins         █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 ## Contact Me
