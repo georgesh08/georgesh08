@@ -24,17 +24,6 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    18 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.52% 
-🌆 Daytime    43 commits     █████████░░░░░░░░░░░░░░░░   37.07% 
-🌃 Evening    47 commits     ██████████░░░░░░░░░░░░░░░   40.52% 
-🌙 Night      8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.9%
-
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -57,12 +46,7 @@ Windows                  6 hrs 59 mins       ███████████�
 
 ```
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/georgesh08/georgesh08/main/charts/bar_graph.png) 
-
-
- Last Updated on 01/06/2022 07:53:21 UTC
 <!--END_SECTION:waka-->
 
 ## Contact Me
