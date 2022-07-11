@@ -2,7 +2,9 @@
 
 ## About Me
 
-:briefcase: ITMO University 3-rd year student
+:memo: ITMO University 3-rd year student
+
+:briefcase: Ready for new offers
 
 :round_pushpin: Current location: Saint-Petersburg. Hometown: Rostov-on-Don 
 
