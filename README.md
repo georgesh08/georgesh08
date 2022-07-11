@@ -11,11 +11,9 @@
 
 ## Currently Working On
 
-* My .NET [labs](https://itmois.notion.site/1-y24-54e3ddf85994453ea2cf37d000c0296e) in ITMO University
+* Developing my task manager
 
 * Mastering my skills in .NET (Roslyn, CLR, GC e.t.c.)
-
-* Developing mobile music service with friends
 
 * Reading _Jeffrey Richter "CLR via C#"_
 
@@ -76,7 +74,6 @@ Windows                  14 hrs 2 mins       ███████████�
 
 ### `Tools`
 ![GIT](https://img.shields.io/badge/-GIT-303030?style=for-the-badge&logo=git)
-![DotMemory](https://img.shields.io/badge/Dot_Memory-E37D68?style=for-the-badge&logo=jetbrains)
 ![Postman](https://img.shields.io/badge/Postman-FFFFFF?style=for-the-badge&logo=postman)
 
 ### `Languages`
