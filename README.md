@@ -2,12 +2,11 @@
 
 ## About Me
 
-:trophy: Winner of 4 All-Russian School Olympiads: 3 in mathematics and 1 in informatics/programming.
+:briefcase: ITMO University 3-rd year student
+
+:round_pushpin: Current location: Saint-Petersburg. Hometown: Rostov-on-Don 
 
 :computer: Junior C# .NET Developer
-
-:camera_flash: Love traveling and taking photos
-
 
 ## Currently Working On
 
