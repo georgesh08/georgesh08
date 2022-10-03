@@ -4,7 +4,7 @@
 
 :memo: ITMO University 3-rd year student
 
-:briefcase: Ready for new offers
+:briefcase: Working as Junior C# Fullstack Developer
 
 :round_pushpin: Current location: Saint-Petersburg. Hometown: Rostov-on-Don 
 
