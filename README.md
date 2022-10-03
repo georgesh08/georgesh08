@@ -8,8 +8,6 @@
 
 :round_pushpin: Current location: Saint-Petersburg. Hometown: Rostov-on-Don 
 
-:computer: Junior C# .NET Developer
-
 ## Currently Working On
 
 * Developing my task manager
