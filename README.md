@@ -27,13 +27,14 @@
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSS                      13 mins             ████████████████████████░   96.44% 
+HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   3.56%
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 13 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  13 mins             █████████████████████████   100.0%
 
 ```
 
