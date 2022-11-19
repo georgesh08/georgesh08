@@ -10,11 +10,13 @@
 
 ## Currently Working On
 
-* Developing my task manager
-
 * Mastering my skills in .NET (Roslyn, CLR, GC e.t.c.)
 
 * Reading _Jeffrey Richter "CLR via C#"_
+
+* Developing website for language club project
+
+* Creating simple photoshop for PNM files
 
 ## My Stats
 
