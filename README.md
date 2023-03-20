@@ -16,36 +16,9 @@
 
 * Developing website for language club project
 
-* Creating simple photoshop for PNM files
+* Developing website for real estate agency
 
-## My Stats
-
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Moscow
-
-💬 Programming Languages: 
-Python                   2 hrs 6 mins        ████████████████░░░░░░░░░   63.61% 
-CSS                      37 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.72% 
-HTML                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.48% 
-Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.51% 
-Qt UI file               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.68%
-
-🔥 Editors: 
-PyCharmCore              2 hrs 7 mins        ████████████████░░░░░░░░░   64.29% 
-WebStorm                 1 hr 11 mins        █████████░░░░░░░░░░░░░░░░   35.71%
-
-💻 Operating System: 
-Windows                  3 hrs 19 mins       █████████████████████████   100.0%
-
-```
-
-
-<!--END_SECTION:waka-->
+* Working as C# Fullstack Developer for Windows and Linux
 
 ## Contact Me
 
